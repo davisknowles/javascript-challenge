@@ -40,10 +40,13 @@ Create a basic HTML web page or use the index.html file provided (we recommend b
 Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
 Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
+<img width="498" alt="Screen Shot 2021-04-04 at 7 53 47 PM" src="https://user-images.githubusercontent.com/47284467/113524895-bbdadc80-957f-11eb-85a4-9be4141cb1f3.png">
 
 
 
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
+<img width="585" alt="Screen Shot 2021-04-04 at 7 54 15 PM" src="https://user-images.githubusercontent.com/47284467/113524902-c301ea80-957f-11eb-8d6a-1bcea86b4a32.png">
+<img width="399" alt="Screen Shot 2021-04-04 at 7 54 37 PM" src="https://user-images.githubusercontent.com/47284467/113524903-c6957180-957f-11eb-948e-ce12e5b0855c.png">
 
 
 
